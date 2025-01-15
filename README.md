@@ -33,16 +33,8 @@ Acting Team Lead with **9+ years of experience** in designing and developing hig
 ---
 
 ## Skills  
-### Technical Skills  
-- Flutter, React Native, Android SDK  
-- Clean Architecture, State Management (Bloc, MVVM, Redux)  
-- Performance Optimization, Unit Testing, Debugging  
-- Git, Agile Methodologies  
-
-### Soft Skills  
-- Teamwork, Leadership, Task Management  
-- Effective Communication, Critical & Analytical Thinking  
-- Attention to Detail  
+- **Technical:** Clean Architecture, State Management (MVVM, Bloc, Redux), Performance Optimization, Unit Testing, Debugging, Git, Agile Methodologies  
+- **Soft:** Teamwork, Leadership, Task Management, Effective Communication, Critical & Analytical Thinking, Attention to Detail  
 
 ---
 
