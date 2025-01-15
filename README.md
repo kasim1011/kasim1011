@@ -20,15 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
-## Contact Information  
-- **Phone:** [+91 9033780529](tel:+919033780529)  
-- **Email:** [kasim.rangwala@yandex.com](mailto:kasim.rangwala@yandex.com)  
-- **Location:** Ahmedabad, Gujarat, India  
-
----
-
-## Profile Summary  
-Senior Mobile Application Developer with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
+## Summary  
+Acting Team Lead with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
 
 - **Cross-Platform Development:** Expertise in building scalable, high-performance applications using Flutter and React Native.  
 - **Android Development:** Advanced knowledge of Android SDKs, APIs, and tools, with hands-on experience in developing robust native apps.  
@@ -74,5 +67,10 @@ Senior Mobile Application Developer with **9+ years of experience** in designing
 - ViewModel, LiveData, Coroutine/Flow, Room, Work Manager, Navigation  
 - Hilt, Compose, Ktor, Koin, Coil, Retrofit, RxAndroid  
 - Glide, Picasso, MPAndroidChart  
+
+---
+
+### Full Profile
+- [kasim1011.github.io](https://kasim1011.github.io/)
 
 ---
